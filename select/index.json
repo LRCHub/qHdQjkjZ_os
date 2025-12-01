@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "残り香",
+  "base_artist": "Sana Ayaka",
+  "createdAt": "2025-12-01T11:32:12.125431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "残り香",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/01_残り香_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "残り香",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/02_残り香_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nokoriga [残り香]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Nokoriga_[残り香]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nokoriga (残り香)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_Nokoriga_(残り香)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "残り香",
+      "artist": "Utada Hikaru",
+      "has_synced": false,
+      "path": "select/05_残り香_Utada_Hikaru.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "残り香",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/06_残り香_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "残り香",
+      "artist": "宇多田光",
+      "has_synced": false,
+      "path": "select/07_残り香_宇多田光.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "残り香",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_01_残り香_シド.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "残り香",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_02_残り香_シド.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "残り香",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_03_残り香_シド.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "残り香",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_04_残り香_シド.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "残り香",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_05_残り香_シド.txt"
+    }
+  ]
+}
